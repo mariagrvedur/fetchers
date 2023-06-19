@@ -1,5 +1,5 @@
 # Medium multiply
-A small demo library for a Medium publication about publishing libraries.
+A small demo library for practicing Poetry packaging.
 
 ### Installation
 ```
