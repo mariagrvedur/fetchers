@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "fetchers"
+name = "fetchers23"
 version = "0.1.0"
 description = ""
 authors = ["Maria Fernanda Gonzalez <mariagr@vedur.is>"]
